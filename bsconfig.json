@@ -1,0 +1,24 @@
+{
+  "name": "tiki-tailwind",
+  "bsc-flags": [],
+  "reason": {
+    "react-jsx": 3
+  },
+  "bs-dependencies": [],
+  "sources": [
+    {
+      "dir": "./src",
+      "subdirs": true
+    }
+  ],
+  "package-specs": {
+    "module": "es6",
+    "in-source": true
+  },
+  "refmt": 3,
+  "suffix": ".bs.js",
+  "warnings": {
+    "number": "+A",
+    "error": "+8+11"
+  }
+}

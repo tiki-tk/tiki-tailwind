@@ -1,0 +1,8 @@
+# node
+node_modules/
+
+# reason/bsb
+.bsb.lock
+.merlin
+/lib/bs/
+**/*.bs.js

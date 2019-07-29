@@ -1,0 +1,82 @@
+# Tiki Tailwind
+
+Reason types for [Tailwind] style rules, plus functions to convert from typed data to string class names.
+
+## Status:
+
+The following Tailwind features have been wrapped in Reason types:
+
+- [ ] Layout
+  - [ ] Container
+  - [ ] Display
+  - [ ] Float
+  - [ ] Object Fit/Position
+  - [ ] Overflow
+  - [ ] Position
+  - [ ] Top/Right/Bottom/Left
+  - [ ] Visibility
+  - [ ] Z-Index
+- [ ] Typography
+  - [ ] Font Size
+  - [ ] Font Smoothing
+  - [ ] Font Style
+  - [ ] Font Weight
+  - [ ] Letter Spacing
+  - [ ] Line Height
+  - [ ] List Style Type
+  - [ ] List Style Position
+  - [ ] Text Align
+  - [ ] Text Color
+  - [ ] Text Decoration
+  - [ ] Text Transform
+  - [ ] Vertical Align
+  - [ ] Whitespace
+  - [ ] Word Break
+- [ ] Backgrounds
+  - [ ] Attachment
+  - [x] Color
+  - [ ] Position
+  - [ ] Repeat
+  - [ ] Size
+- [ ] Borders
+  - [ ] Color
+  - [ ] Style
+  - [ ] Width
+  - [ ] Radius
+- [ ] Flexbox
+  - [ ] Flex Direction
+  - [ ] Flex Wrap
+  - [ ] Align Items
+  - [ ] Align Content
+  - [ ] Align Self
+  - [ ] Justify Content
+  - [ ] Flex
+  - [ ] Flex Grow
+  - [ ] Flex Shrink
+  - [ ] Order
+- [ ] Spacing
+  - [ ] Padding
+  - [ ] Margin
+- [ ] Sizing
+  - [ ] Width
+  - [ ] Min-Width
+  - [ ] Max-Width
+  - [ ] Height
+  - [ ] Min-Height
+  - [ ] Max-Height
+- [ ] Tables
+  - [ ] Border Collapse
+  - [ ] Table Layout
+- [ ] Effects
+  - [ ] Box Shadow
+  - [ ] Opacity
+- [ ] Interactivity
+  - [ ] Appearance
+  - [ ] Cursor
+  - [ ] Outline
+  - [ ] Pointer Events
+  - [ ] Resize
+  - [ ] User Select
+- [ ] SVG
+  - [ ] Fill
+  - [ ] Stroke
