@@ -18,7 +18,7 @@
   "refmt": 3,
   "suffix": ".bs.js",
   "warnings": {
-    "number": "+A",
-    "error": "+8+11"
+    "number": "+A-40-42",
+    "error": "+A"
   }
 }
